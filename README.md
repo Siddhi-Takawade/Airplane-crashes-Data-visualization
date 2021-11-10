@@ -16,4 +16,4 @@ Visualizations created here are in accordance to the following keys :
 - Total number of people involved in a year
 
 
-The (Yearly Fatalities, Total accidents by types of flight, Yearly Military vs Passenger flight crashes) keys contain interesting interactive plots, snippets of which are attached to this repository. To experience interacting with these plots, [view in notebook](https://colab.research.google.com/drive/19tI4Md2NdGyfTNqvX6sTX-8fUJGWcd7A?usp=sharing)
+The (Yearly Fatalities, Total accidents by types of flight, Yearly Military vs Passenger flight crashes) keys contain interesting interactive plots, snippets of which are attached to this repository under [Data](https://github.com/Siddhi-Takawade/Airplane-crashes-Data-visualization/tree/main/Data) folder. To experience interacting with these plots, [view in notebook](https://colab.research.google.com/drive/19tI4Md2NdGyfTNqvX6sTX-8fUJGWcd7A?usp=sharing)
